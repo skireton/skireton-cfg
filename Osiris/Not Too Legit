@@ -1,0 +1,7975 @@
+{
+	"Aimbot" : 
+	[
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : false,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 99,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : false,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : false
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		},
+		{
+			"Aimlock" : false,
+			"Auto scope" : false,
+			"Auto shot" : false,
+			"Between shots" : true,
+			"Bone" : 0,
+			"Enabled" : false,
+			"Fov" : 0.0,
+			"Friendly fire" : false,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Key mode" : 0,
+			"Killshot" : false,
+			"Max aim inaccuracy" : 1.0,
+			"Max shot inaccuracy" : 1.0,
+			"Min damage" : 1,
+			"On key" : false,
+			"Recoil control X" : 0.0,
+			"Recoil control Y" : 0.0,
+			"Recoil-based fov" : false,
+			"Scoped only" : true,
+			"Silent" : false,
+			"Smooth" : 1.0,
+			"Visible only" : true
+		}
+	],
+	"Anti aim" : 
+	{
+		"Enabled" : false,
+		"Pitch" : false,
+		"Pitch angle" : 89.0,
+		"Yaw" : false
+	},
+	"Backtrack" : 
+	{
+		"Enabled" : true,
+		"Ignore smoke" : true,
+		"Recoil based fov" : false,
+		"Time limit" : 165
+	},
+	"Chams" : 
+	[
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						0.14953279495239258,
+						1.0,
+						0.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : true,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 9,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : true,
+					"Rainbow speed" : 0.10000000149011612
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 6,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 0.44999998807907104,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 6,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		],
+		[
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			},
+			{
+				"Alpha" : 1.0,
+				"Blinking" : false,
+				"Color" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Health based" : false,
+				"Material" : 0,
+				"Wireframe" : false
+			}
+		]
+	],
+	"Esp" : 
+	{
+		"Danger Zone" : 
+		[
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			}
+		],
+		"Players" : 
+		[
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 29,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 29,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 29,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.99998998641967773,
+						0.99998998641967773
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 1.0
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 21,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						0.75700938701629639,
+						0.47047781944274902,
+						0.47047781944274902
+					],
+					"Enabled" : false,
+					"Rainbow" : true,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 21,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Active weapon" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Armor bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Dead ESP" : false,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : false,
+				"Eye traces" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Font" : 29,
+				"Head dot" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Health bar" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Max distance" : 0.0,
+				"Money" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			}
+		],
+		"Projectiles" : 
+		[
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			},
+			{
+				"Box" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : true,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Box type" : 0,
+				"Distance" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Enabled" : true,
+				"Font" : 29,
+				"Max distance" : 0.0,
+				"Name" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Outline" : 
+				{
+					"Color" : 
+					[
+						0.0,
+						0.0,
+						0.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				},
+				"Snaplines" : 
+				{
+					"Color" : 
+					[
+						1.0,
+						1.0,
+						1.0
+					],
+					"Enabled" : false,
+					"Rainbow" : false,
+					"Rainbow speed" : 0.60000002384185791
+				}
+			}
+		],
+		"Weapons" : 
+		{
+			"Box" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Enabled" : false,
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Box type" : 0,
+			"Distance" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Enabled" : false,
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"Font" : 29,
+			"Max distance" : 0.0,
+			"Name" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Enabled" : false,
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Outline" : 
+			{
+				"Color" : 
+				[
+					0.0,
+					0.0,
+					0.0
+				],
+				"Enabled" : false,
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Snaplines" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Enabled" : false,
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			}
+		}
+	},
+	"Misc" : 
+	{
+		"Animated clan tag" : false,
+		"Anti AFK kick" : true,
+		"Aspect Ratio" : 0.0,
+		"Auto accept" : true,
+		"Auto pistol" : false,
+		"Auto reload" : false,
+		"Auto strafe" : false,
+		"Ban color" : 6,
+		"Ban text" : "Cheater has been permanently banned from official CS:GO servers.",
+		"Bomb timer" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				0.55000001192092896,
+				0.0
+			],
+			"Enabled" : true,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
+		"Bunny hop" : true,
+		"Choked packets" : 0,
+		"Choked packets key" : 0,
+		"Clan tag" : "",
+		"Clock tag" : false,
+		"Custom clan tag" : false,
+		"Disable HUD blur" : false,
+		"Disable model occlusion" : false,
+		"Edge Jump" : false,
+		"Edge Jump Key" : 0,
+		"Fake prime" : true,
+		"Fast duck" : false,
+		"Fast plant" : false,
+		"Fix animation LOD" : false,
+		"Fix bone matrix" : false,
+		"Fix movement" : false,
+		"Fix tablet signal" : false,
+		"Grenade predict" : false,
+		"Hit sound" : 2,
+		"Kill message" : false,
+		"Kill message string" : "",
+		"Max angle delta" : 255.0,
+		"Menu key" : 45,
+		"Moonwalk" : false,
+		"Name stealer" : false,
+		"Prepare revolver" : false,
+		"Prepare revolver key" : 0,
+		"Quick healthshot key" : 0,
+		"Quick reload" : false,
+		"Radar hack" : true,
+		"Recoil crosshair" : false,
+		"Reveal money" : true,
+		"Reveal ranks" : true,
+		"Reveal suspect" : true,
+		"Slowwalk" : false,
+		"Slowwalk key" : 0,
+		"Sniper crosshair" : true,
+		"Spectator list" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : true,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
+		"Vote text" : "",
+		"Watermark" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		}
+	},
+	"Reportbot" : 
+	{
+		"Abusive Communications" : false,
+		"Aim Hacking" : true,
+		"Delay" : 1,
+		"Enabled" : false,
+		"Griefing" : false,
+		"Other Hacking" : true,
+		"Rounds" : 1,
+		"Target" : 0,
+		"Wall Hacking" : true
+	},
+	"Sound" : 
+	{
+		"Chicken volume" : 100,
+		"Players" : 
+		[
+			{
+				"Footstep volume" : 100,
+				"Headshot volume" : 100,
+				"Master volume" : 100,
+				"Weapon volume" : 100
+			},
+			{
+				"Footstep volume" : 100,
+				"Headshot volume" : 100,
+				"Master volume" : 100,
+				"Weapon volume" : 100
+			},
+			{
+				"Footstep volume" : 100,
+				"Headshot volume" : 100,
+				"Master volume" : 100,
+				"Weapon volume" : 100
+			}
+		]
+	},
+	"Style" : 
+	{
+		"Colors" : 
+		{
+			"Border" : 
+			[
+				0.43000000715255737,
+				0.43000000715255737,
+				0.5,
+				0.5
+			],
+			"BorderShadow" : 
+			[
+				0.0,
+				0.0,
+				0.0,
+				0.0
+			],
+			"Button" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.40000000596046448
+			],
+			"ButtonActive" : 
+			[
+				0.059999998658895493,
+				0.52999997138977051,
+				0.98000001907348633,
+				1.0
+			],
+			"ButtonHovered" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				1.0
+			],
+			"CheckMark" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				1.0
+			],
+			"ChildBg" : 
+			[
+				0.0,
+				0.0,
+				0.0,
+				0.0
+			],
+			"DragDropTarget" : 
+			[
+				1.0,
+				1.0,
+				0.0,
+				0.89999997615814209
+			],
+			"FrameBg" : 
+			[
+				0.15999999642372131,
+				0.28999999165534973,
+				0.47999998927116394,
+				0.54000002145767212
+			],
+			"FrameBgActive" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.67000001668930054
+			],
+			"FrameBgHovered" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.40000000596046448
+			],
+			"Header" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.31000000238418579
+			],
+			"HeaderActive" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				1.0
+			],
+			"HeaderHovered" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.80000001192092896
+			],
+			"MenuBarBg" : 
+			[
+				0.14000000059604645,
+				0.14000000059604645,
+				0.14000000059604645,
+				1.0
+			],
+			"ModalWindowDimBg" : 
+			[
+				0.80000001192092896,
+				0.80000001192092896,
+				0.80000001192092896,
+				0.34999999403953552
+			],
+			"NavHighlight" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				1.0
+			],
+			"NavWindowingDimBg" : 
+			[
+				0.80000001192092896,
+				0.80000001192092896,
+				0.80000001192092896,
+				0.20000000298023224
+			],
+			"NavWindowingHighlight" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				0.69999998807907104
+			],
+			"PlotHistogram" : 
+			[
+				0.89999997615814209,
+				0.69999998807907104,
+				0.0,
+				1.0
+			],
+			"PlotHistogramHovered" : 
+			[
+				1.0,
+				0.60000002384185791,
+				0.0,
+				1.0
+			],
+			"PlotLines" : 
+			[
+				0.61000001430511475,
+				0.61000001430511475,
+				0.61000001430511475,
+				1.0
+			],
+			"PlotLinesHovered" : 
+			[
+				1.0,
+				0.43000000715255737,
+				0.34999999403953552,
+				1.0
+			],
+			"PopupBg" : 
+			[
+				0.079999998211860657,
+				0.079999998211860657,
+				0.079999998211860657,
+				0.93999999761581421
+			],
+			"ResizeGrip" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.25
+			],
+			"ResizeGripActive" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.94999998807907104
+			],
+			"ResizeGripHovered" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.67000001668930054
+			],
+			"ScrollbarBg" : 
+			[
+				0.019999999552965164,
+				0.019999999552965164,
+				0.019999999552965164,
+				0.52999997138977051
+			],
+			"ScrollbarGrab" : 
+			[
+				0.31000000238418579,
+				0.31000000238418579,
+				0.31000000238418579,
+				1.0
+			],
+			"ScrollbarGrabActive" : 
+			[
+				0.50999999046325684,
+				0.50999999046325684,
+				0.50999999046325684,
+				1.0
+			],
+			"ScrollbarGrabHovered" : 
+			[
+				0.40999999642372131,
+				0.40999999642372131,
+				0.40999999642372131,
+				1.0
+			],
+			"Separator" : 
+			[
+				0.43000000715255737,
+				0.43000000715255737,
+				0.5,
+				0.5
+			],
+			"SeparatorActive" : 
+			[
+				0.10000000149011612,
+				0.40000000596046448,
+				0.75,
+				1.0
+			],
+			"SeparatorHovered" : 
+			[
+				0.10000000149011612,
+				0.40000000596046448,
+				0.75,
+				0.77999997138977051
+			],
+			"SliderGrab" : 
+			[
+				0.23999999463558197,
+				0.51999998092651367,
+				0.87999999523162842,
+				1.0
+			],
+			"SliderGrabActive" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				1.0
+			],
+			"Tab" : 
+			[
+				0.17999999225139618,
+				0.34999996423721313,
+				0.58000004291534424,
+				0.8619999885559082
+			],
+			"TabActive" : 
+			[
+				0.19999998807907104,
+				0.40999996662139893,
+				0.68000000715255737,
+				1.0
+			],
+			"TabHovered" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.80000001192092896
+			],
+			"TabUnfocused" : 
+			[
+				0.068000003695487976,
+				0.10199998319149017,
+				0.14800003170967102,
+				0.9724000096321106
+			],
+			"TabUnfocusedActive" : 
+			[
+				0.13599997758865356,
+				0.26199996471405029,
+				0.42399999499320984,
+				1.0
+			],
+			"Text" : 
+			[
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			],
+			"TextDisabled" : 
+			[
+				0.5,
+				0.5,
+				0.5,
+				1.0
+			],
+			"TextSelectedBg" : 
+			[
+				0.25999999046325684,
+				0.5899999737739563,
+				0.98000001907348633,
+				0.34999999403953552
+			],
+			"TitleBg" : 
+			[
+				0.039999999105930328,
+				0.039999999105930328,
+				0.039999999105930328,
+				1.0
+			],
+			"TitleBgActive" : 
+			[
+				0.15999999642372131,
+				0.28999999165534973,
+				0.47999998927116394,
+				1.0
+			],
+			"TitleBgCollapsed" : 
+			[
+				0.0,
+				0.0,
+				0.0,
+				0.50999999046325684
+			],
+			"WindowBg" : 
+			[
+				0.059999998658895493,
+				0.059999998658895493,
+				0.059999998658895493,
+				0.93999999761581421
+			]
+		},
+		"Menu colors" : 0,
+		"Menu style" : 0
+	},
+	"Triggerbot" : 
+	[
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		},
+		{
+			"Enabled" : false,
+			"Friendly fire" : false,
+			"Hitgroup" : 0,
+			"Ignore flash" : false,
+			"Ignore smoke" : false,
+			"Key" : 0,
+			"Killshot" : false,
+			"Min damage" : 1,
+			"On key" : false,
+			"Scoped only" : true,
+			"Shot delay" : 0
+		}
+	],
+	"glow" : 
+	[
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"alpha" : 0.56000000238418579,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					0.0,
+					0.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : true,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		},
+		{
+			"Color" : 
+			{
+				"Color" : 
+				[
+					1.0,
+					1.0,
+					1.0
+				],
+				"Rainbow" : false,
+				"Rainbow speed" : 0.60000002384185791
+			},
+			"Enabled" : false,
+			"alpha" : 1.0,
+			"healthBased" : false,
+			"style" : 0,
+			"thickness" : 1.0
+		}
+	],
+	"skinChanger" : 
+	[
+		{
+			"Enabled" : true,
+			"custom_name" : "dickiridok",
+			"definition_index" : 42,
+			"definition_override_index" : 507,
+			"definition_override_vector_index" : 9,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 413,
+			"paint_kit_vector_index" : 450,
+			"seed" : 4,
+			"stat_trak" : 1,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 0.0
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 5028,
+			"definition_override_index" : 5030,
+			"definition_override_vector_index" : 4,
+			"definition_vector_index" : 1,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 10045,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "bruh momento",
+			"definition_index" : 9,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 4,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 344,
+			"paint_kit_vector_index" : 253,
+			"seed" : 0,
+			"stat_trak" : 1,
+			"stickers" : 
+			[
+				{
+					"kit" : 3984,
+					"kit_vector_index" : 7,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 3984,
+					"kit_vector_index" : 7,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 3984,
+					"kit_vector_index" : 7,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 3984,
+					"kit_vector_index" : 7,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 3984,
+					"kit_vector_index" : 7,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		},
+		{
+			"Enabled" : false,
+			"custom_name" : "",
+			"definition_index" : 1,
+			"definition_override_index" : 0,
+			"definition_override_vector_index" : 0,
+			"definition_vector_index" : 0,
+			"entity_quality_index" : 0,
+			"entity_quality_vector_index" : 0,
+			"paint_kit_index" : 0,
+			"paint_kit_vector_index" : 0,
+			"seed" : 0,
+			"stat_trak" : 0,
+			"stickers" : 
+			[
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				},
+				{
+					"kit" : 0,
+					"kit_vector_index" : 0,
+					"rotation" : 0.0,
+					"scale" : 1.0,
+					"wear" : 1.1754943508222875e-38
+				}
+			],
+			"wear" : 1.1754943508222875e-38
+		}
+	],
+	"visuals" : 
+	{
+		"Color correction" : 
+		{
+			"Blue" : 0.0,
+			"Enabled" : false,
+			"Ghost" : 0.0,
+			"Green" : 0.0,
+			"Mono" : 0.0,
+			"Red" : 0.0,
+			"Saturation" : 0.0,
+			"Yellow" : 0.0
+		},
+		"Deagle spinner" : false,
+		"Fov" : 5,
+		"Hit effect" : 0,
+		"Hit effect time" : 0.60000002384185791,
+		"Hit marker" : 1,
+		"Hit marker time" : 0.60000002384185791,
+		"No aim punch" : false,
+		"No view punch" : false,
+		"Playermodel CT" : 0,
+		"Playermodel T" : 0,
+		"Screen effect" : 0,
+		"Sky" : 
+		{
+			"Color" : 
+			[
+				0.99999290704727173,
+				0.99998998641967773,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
+		"World" : 
+		{
+			"Color" : 
+			[
+				1.0,
+				1.0,
+				1.0
+			],
+			"Enabled" : false,
+			"Rainbow" : false,
+			"Rainbow speed" : 0.60000002384185791
+		},
+		"Zoom" : false,
+		"Zoom key" : 0,
+		"brightness" : 1.0,
+		"disablePostProcessing" : false,
+		"farZ" : 0,
+		"flashReduction" : 100,
+		"inverseRagdollGravity" : false,
+		"no3dSky" : false,
+		"noBlur" : false,
+		"noFog" : false,
+		"noGrass" : false,
+		"noHands" : false,
+		"noScopeOverlay" : false,
+		"noShadows" : false,
+		"noSleeves" : false,
+		"noSmoke" : false,
+		"noWeapons" : false,
+		"skybox" : 0,
+		"thirdperson" : true,
+		"thirdpersonDistance" : 109,
+		"thirdpersonKey" : 5,
+		"viewmodelFov" : 10,
+		"wireframeSmoke" : false
+	}
+}
